@@ -29,7 +29,7 @@ I am a digital warrior, forged in curiosity and driven by purpose. <br>
 My passion lies in cybersecurity and Red Team operations, where I blend creativity with chaos to expose vulnerabilities and outmaneuver threats.<br>
 I’ve walked the path of vulnerability assessments and penetration testing, and I’m no stranger to SOC analysis or SIEM ecosystems like Cisco, Splunk, and Wazuh.<br>
 They’re tools in my arsenal not just for defense, but for understanding the battlefield.<br><br></b></p>
-<p align="center"><b>⚠️Crazy Things About Me <br><br>
+<p align="center"><b>⚠️Crazy Things About Me <br>
 I do not follow the rules. I test them.<br>
 I do not fear systems. I understand them.<br>
 I do not settle for what is secure. I ask why it’s not broken yet.<b><br><br></b> </p>
