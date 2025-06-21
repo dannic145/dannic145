@@ -79,15 +79,7 @@ Sharpening my Red Team Arsenal:
 ! [>>] Building Red Team Infrastructure
 ```
 </table>
-   <table>
-  <tr>
-    <td width="60%">
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R0eXg3cXl4cW5sZ2Q0d2o3M3F0cWw3c3VnM2Y0bDg5cWc5dWJjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7e6EUKQTZ0PND4i1v/giphy.gif" width="100%">
-    </td>
-  </tr>
-</table>
+ 
 
 ## 📈 5734L7H M37R1C5
 
