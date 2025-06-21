@@ -44,7 +44,7 @@ This is my code. This is my craft. And this is what I live by.<br>
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="90%">
       
 ### 🛡️ C0R3 5K1LLZ
 ```diff
