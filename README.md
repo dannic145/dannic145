@@ -130,14 +130,14 @@ PORT    STATE SERVICE     VERSION
 </p>
 
 🔚 73RM1N4710N 53QU3NC3
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"> <br> <em>"In the shadows of the network, I sharpen my blades - one exploit at a time."</em> </p><div align="center"><h3> <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Session+Terminated...+Goodbye!+%F0%9F%98%8E;System+Halted+%E2%9C%96%EF%B8%8F" alt="Goodbye Animation" />
-</p> </h3>
-bash
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"> <br> <em>"In the shadows of the network, I sharpen my blades - one exploit at a time."</em> </p>
+``` bash 
 > shutdown -h now
 [  OK  ] Stopped Red Team Operations
 [  OK  ] Closed all security vulnerabilities
 [  OK  ] Logged out all sessions
 [  OK  ] System halted
- 
-``` </div>
+``` 
+<h3> <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Session+Terminated...+Goodbye!+%F0%9F%98%8E;System+Halted+%E2%9C%96%EF%B8%8F" alt="Goodbye Animation" />
+</p> </h3>
