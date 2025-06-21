@@ -45,7 +45,15 @@ This is my code. This is my craft. And this is what I live by.<br>
 <table align="center" width="100%">
   <tr>
     <td>
-      
+
+###🧠 4B0U7 M3 
+```diff
+🛡️ Daniel Nicolas Rentapalli
+🎓 B.Tech in CSE – Specialization: Cybersecurity
+🏫 Malla Reddy University
+📜 Certified Ethical Hacker (CEH v13) | <strong>Cisco Certified
+ ```
+     
 ### 🛡️ C0R3 5K1LLZ
 ```diff
 + [✓] Offensive Security
