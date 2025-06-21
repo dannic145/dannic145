@@ -131,7 +131,8 @@ PORT    STATE SERVICE     VERSION
 
 🔚 73RM1N4710N 53QU3NC3
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"> <br> <em>"In the shadows of the network, I sharpen my blades - one exploit at a time."</em> </p>
-``` bash 
+
+```bash 
 > shutdown -h now
 [  OK  ] Stopped Red Team Operations
 [  OK  ] Closed all security vulnerabilities
