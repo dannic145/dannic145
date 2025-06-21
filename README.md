@@ -46,7 +46,7 @@ This is my code. This is my craft. And this is what I live by.<br>
   <tr>
     <td>
 
-###🧠 4B0U7 M3 
+### 🧠 4B0U7 M3 
 ```diff
 🛡️ Daniel Nicolas Rentapalli
 🎓 B.Tech in CSE – Specialization: Cybersecurity
