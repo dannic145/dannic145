@@ -44,7 +44,7 @@ This is my code. This is my craft. And this is what I live by.<br>
 
 <table>
   <tr>
-    <td width="90%">
+    <td width="60%">
       
 ### 🛡️ C0R3 5K1LLZ
 ```diff
@@ -78,7 +78,12 @@ Sharpening my Red Team Arsenal:
 ! [>>] Studying Threat Intelligence Platforms
 ! [>>] Building Red Team Infrastructure
 ```
-</table>
+</td>  
+
+<td>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l4Y2t5MTd6Z29tc3h0dHRld3E3MDhjcDF2dDJqZzd6N2x2c2tsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z6iLzMvdhKdNK/giphy.gif" width="100%">
+</td>
+</tr> </table>
  
 
 ## 📈 5734L7H M37R1C5
