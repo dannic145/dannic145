@@ -42,9 +42,9 @@ This is my code. This is my craft. And this is what I live by.<br>
 
 ## 🧬 8337 5P34K
 
-<table>
-  <tr width="100%">
-    <td >
+<table width="100%">
+  <tr>
+    <td>
       
 ### 🛡️ C0R3 5K1LLZ
 ```diff
