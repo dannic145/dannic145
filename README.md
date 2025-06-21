@@ -42,7 +42,7 @@ This is my code. This is my craft. And this is what I live by.<br>
 
 ## 🧬 8337 5P34K
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td>
       
