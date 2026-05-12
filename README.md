@@ -49,8 +49,8 @@ This is my code. This is my craft. And this is what I live by.<br>
 ### 🧠 4B0U7 M3 
 ```diff
 🛡️ Daniel Nicolas Rentapalli
-🎓 B.Tech in CSE – Specialization: Cybersecurity
-🏫 Malla Reddy University
+🎓 B.Tech in CSE – Specialization: Cybersecurity – Malla Reddy University, Hyderabad, India
+🎓 Msc in Cybersecurity – Swansea University, UK
 📜 Certified Ethical Hacker (CEH v13) | <strong>Cisco Certified
  ```
      
