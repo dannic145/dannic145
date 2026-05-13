@@ -78,7 +78,7 @@ cyber_stack = {
 ### 🔥 CURR3N7 0P3R4710NZ
 ```diff
 Sharpening my Red Team Arsenal:  
-! [>>] ⚙️ Learning C++  
+! [>>] Learning C++  
 ! [>>] Mastering BlackArch, Kali Linux, and Parrot OS  
 ! [>>] Malware Analysis
 ! [>>] Mastering Advanced PenTesting Techniques
